@@ -101,6 +101,20 @@ towebp.net is built and maintained by an **independent solo developer**. It exis
 
 Found a bug or have an idea? Get in touch through the [Contact page](https://towebp.net/contact-us). Every message gets a personal reply, usually within an hour.
 
+## Changelog
+
+### 2026-05 — Latest
+- 🎉 New: bulk conversion — convert many images at once and download as a ZIP
+- 📐 New: resize images while converting (0.1× to 4×)
+- ⚡ Faster conversion for large images
+
+### 2026-04
+- 🔒 Improved privacy: conversion now runs fully in your browser
+- 🐛 Fixed an issue where some PNG files lost transparency
+
+### 2026-03 — First release
+- ✨ Initial launch of towebp.net
+
 ---
 
 *Keywords: webp converter, free webp converter, online webp converter, bulk webp converter, jpg to webp, jpeg to webp, png to webp, gif to webp, svg to webp, bmp to webp, avif to webp, ico to webp, image to webp, convert to webp, compress images to webp.*
