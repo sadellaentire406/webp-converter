@@ -105,8 +105,10 @@ Found a bug or have an idea? Get in touch through the [Contact page](https://tow
 
 ### 2026-05 — Latest
 - 🎉 New: bulk conversion — convert many images at once and download as a ZIP
-- 📐 New: resize images while converting (0.1× to 4×)
+- 📐 New: resize images while converting (0.1× to 4×), target file size
 - ⚡ Faster conversion for large images
+- 🍏 Remove metadata (EXIF)
+- 🦘 Converting from WebP to JPG, PNG
 
 ### 2026-04
 - 🔒 Improved privacy: conversion now runs fully in your browser
